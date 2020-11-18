@@ -1,0 +1,32 @@
+h1 {
+  font-family: georgia, "Times New Roman", serif;
+}
+
+h2 {
+  font-family: georgia, "Times New Roman", serif;
+}
+
+a {
+  text-decoration: none;
+  color: green;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+body {
+  background-color: lightgreen;
+}
+
+footer {
+  text-align: center;
+  width: 100%;
+  float: right;
+  bottom: 0;
+}
+
+article {
+  float: left;
+  width: 50%;
+}
